@@ -1,7 +1,7 @@
 # Vote App
 
 A C++ based Election Application designed to provide a solution for election processes. This application allows for login using Indonesian Citizen Identification Number (NIK), admin authentication for managing leader candidates, and voting functionalities.
-![image][(https://github.com/user-attachments/assets/6b64e76c-a8a1-4968-b14d-af3499e379e2](https://h.top4top.io/p_3273g6ky51.png)
+![image](https://h.top4top.io/p_3273g6ky51.png)
 
 
 ## Key Features

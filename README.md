@@ -5,8 +5,8 @@ A C++ based Election Application designed to provide a solution for election pro
 ## Key Features
 
 - **Login with NIK KTP**: Users can log in using the Indonesian Citizen Identification Number (NIK) stored in the `warga.txt` file along with the password found in `password.txt`.
-- **Admin Authentication**: Admins can log into a control panel to add, remove, and update candidate information.
-- **Candidate Management**: Admins can upload candidate images and update data related to the candidates.
+- **Admin Authentication**: Admins can log into a control panel to add, remove, and update candidate information. (soon)
+- **Candidate Management**: Admins can upload candidate images and update data related to the candidates. (soon)
 - **Voting Process**: Users can vote for their preferred candidates.
 - **Data Storage**: Data is stored in text files like `warga.txt`, `admin.txt`, `nik.txt`, `password.txt`, and `calon.txt` to manage users, admins, and candidates.
 - **Election Results**: The application displays the election results immediately after voting.

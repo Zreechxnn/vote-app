@@ -3,6 +3,13 @@
 A C++ based Election Application designed to provide a solution for election processes. This application allows for login using Indonesian Citizen Identification Number (NIK), admin authentication for managing leader candidates, and voting functionalities.
 ![image](https://h.top4top.io/p_3273g6ky51.png)
 
+## ⚠️ Disclaimer  
+
+The code in this repository is intended **only for developers** with a basic understanding of programming. Please use it responsibly and for development purposes only.
+
+- **Not recommended for direct use in production environments without thorough testing.**  
+- No guarantees are provided regarding the absence of bugs or errors.  
+- The author is not liable for any damages or issues caused
 
 ## Key Features
 
